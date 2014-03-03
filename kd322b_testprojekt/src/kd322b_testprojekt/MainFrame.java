@@ -13,6 +13,10 @@ public class MainFrame extends JFrame {
 
 	/**
 	 * Launch the application.
+	 * 
+	 * 
+	 * * HELLO! I WROTE A COMMENT IN YOUR CODE LOLZ!
+	 * 
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
